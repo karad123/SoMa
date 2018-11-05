@@ -1,1 +1,16 @@
-# SoMaOnline
+<!doctype html>
+<html>
+ <head>
+	<title>
+		SoMaOnline에 오신것을 환영합니다!
+	</title>
+	<meta charset="utf-8">
+</head>
+<body>
+	
+	<h1>안녕하세요? 지금은 준비중입니다</h1>
+	<p>
+		TestPage
+	</p>
+ </body>
+</html> 
